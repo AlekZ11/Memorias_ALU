@@ -1,0 +1,5 @@
+set -tmpdir "/home/alekz/Codigos_Videos/xst/projnav.tmp"
+set -xsthdpdir "/home/alekz/Codigos_Videos/xst"
+elaborate
+-ifn TB_MemoriaRAM.prj
+-ifmt mixed

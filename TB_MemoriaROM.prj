@@ -1,0 +1,2 @@
+vhdl work "../Prueba/MemoriaROM.vhd"
+vhdl work "../Prueba/TB_MemoriaROM.vhd"

@@ -1,0 +1,45 @@
+Release 14.7 - xst P.20131013 (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> 
+Parameter TMPDIR set to /home/alekz/Codigos_Videos/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.04 secs
+ 
+--> 
+Parameter xsthdpdir set to /home/alekz/Codigos_Videos/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.04 secs
+ 
+--> 
+WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "/home/alekz/Prueba/MemoriaROM.vhd" in Library work.
+Entity <MemoriaROM> compiled.
+Entity <MemoriaROM> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "/home/alekz/Prueba/TB_MemoriaROM.vhd" in Library work.
+Entity <TB_MemoriaROM> compiled.
+ERROR:HDLParsers:1015 - "/home/alekz/Prueba/TB_MemoriaROM.vhd" Line 74. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "/home/alekz/Prueba/TB_MemoriaROM.vhd" Line 76. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "/home/alekz/Prueba/TB_MemoriaROM.vhd" Line 78. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "/home/alekz/Prueba/TB_MemoriaROM.vhd" Line 80. Wait for statement unsupported.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.07 secs
+ 
+--> 
+
+
+Total memory usage is 469924 kilobytes
+
+Number of errors   :    4 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

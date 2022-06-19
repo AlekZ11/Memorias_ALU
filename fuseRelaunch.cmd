@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/alekz/Codigos_Videos/TB_MemoriaRAM_isim_beh.exe" -prj "/home/alekz/Codigos_Videos/TB_MemoriaRAM_beh.prj" "work.TB_MemoriaRAM" 

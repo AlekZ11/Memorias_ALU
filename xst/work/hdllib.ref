@@ -1,0 +1,14 @@
+AR memoriaram behavioral /home/alekz/Prueba/MemoriaRAM.vhd sub00/vhpl09 1655657123
+AR alu_4bits behavioral /home/alekz/Prueba/ALU_4BITS.vhd sub00/vhpl01 1655656981
+AR tb_alu_4bits behavior /home/alekz/Prueba/TB_ALU_4BITS.vhd sub00/vhpl03 1655656983
+EN memoriarom NULL /home/alekz/Prueba/MemoriaROM.vhd sub00/vhpl11 1655657088
+EN tb_memoriarom NULL /home/alekz/Prueba/TB_MemoriaROM.vhd sub00/vhpl13 1655657090
+EN alu_8bits NULL /home/alekz/Prueba/ALU_8Bits.vhd sub00/vhpl04 1655656984
+EN tb_alu_8bits NULL /home/alekz/Prueba/TB_ALU_8Bits.vhd sub00/vhpl06 1655656986
+AR alu_8bits rtl /home/alekz/Prueba/ALU_8Bits.vhd sub00/vhpl05 1655656985
+EN alu_4bits NULL /home/alekz/Prueba/ALU_4BITS.vhd sub00/vhpl00 1655656980
+EN tb_alu_4bits NULL /home/alekz/Prueba/TB_ALU_4BITS.vhd sub00/vhpl02 1655656982
+AR memoriarom behavioral /home/alekz/Prueba/MemoriaROM.vhd sub00/vhpl12 1655657089
+AR tb_alu_8bits tb /home/alekz/Prueba/TB_ALU_8Bits.vhd sub00/vhpl07 1655656987
+EN memoriaram NULL /home/alekz/Prueba/MemoriaRAM.vhd sub00/vhpl08 1655657122
+EN tb_memoriaram NULL /home/alekz/Prueba/TB_MemoriaRAM.vhd sub00/vhpl10 1655657124

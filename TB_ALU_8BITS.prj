@@ -1,0 +1,2 @@
+vhdl work "../Prueba/ALU_8Bits.vhd"
+vhdl work "../Prueba/TB_ALU_8Bits.vhd"

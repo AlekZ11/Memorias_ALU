@@ -1,0 +1,45 @@
+V3 28
+FL /home/alekz/Prueba/ALU_4BITS.vhd 2022/06/19.11:36:29 P.20131013
+EN work/ALU_4BITS 1655656980 FL /home/alekz/Prueba/ALU_4BITS.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ALU_4BITS/Behavioral 1655656981 \
+      FL /home/alekz/Prueba/ALU_4BITS.vhd EN work/ALU_4BITS 1655656980
+FL /home/alekz/Prueba/ALU_8Bits.vhd 2022/06/19.11:25:25 P.20131013
+EN work/ALU_8BITS 1655656984 FL /home/alekz/Prueba/ALU_8Bits.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/ALU_8BITS/RTL 1655656985 \
+      FL /home/alekz/Prueba/ALU_8Bits.vhd EN work/ALU_8BITS 1655656984
+FL /home/alekz/Prueba/MemoriaRAM.vhd 2022/06/19.11:16:51 P.20131013
+EN work/MemoriaRAM 1655657122 FL /home/alekz/Prueba/MemoriaRAM.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/MemoriaRAM/Behavioral 1655657123 \
+      FL /home/alekz/Prueba/MemoriaRAM.vhd EN work/MemoriaRAM 1655657122
+FL /home/alekz/Prueba/MemoriaROM.vhd 2022/06/19.11:17:51 P.20131013
+EN work/MemoriaROM 1655657088 FL /home/alekz/Prueba/MemoriaROM.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/MemoriaROM/Behavioral 1655657089 \
+      FL /home/alekz/Prueba/MemoriaROM.vhd EN work/MemoriaROM 1655657088
+FL /home/alekz/Prueba/TB_ALU_4BITS.vhd 2022/06/19.11:37:48 P.20131013
+EN work/TB_ALU_4BITS 1655656982 FL /home/alekz/Prueba/TB_ALU_4BITS.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/TB_ALU_4BITS/behavior 1655656983 \
+      FL /home/alekz/Prueba/TB_ALU_4BITS.vhd EN work/TB_ALU_4BITS 1655656982 \
+      CP ALU_4BITS
+FL /home/alekz/Prueba/TB_ALU_8Bits.vhd 2022/06/19.11:37:55 P.20131013
+EN work/TB_ALU_8BITS 1655656986 FL /home/alekz/Prueba/TB_ALU_8Bits.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/TB_ALU_8BITS/TB 1655656987 \
+      FL /home/alekz/Prueba/TB_ALU_8Bits.vhd EN work/TB_ALU_8BITS 1655656986 \
+      CP ALU_8BITS
+FL /home/alekz/Prueba/TB_MemoriaRAM.vhd 2022/06/19.11:43:49 P.20131013
+EN work/TB_MemoriaRAM 0 FL /home/alekz/Prueba/TB_MemoriaRAM.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/TB_MemoriaRAM/behavior 0 \
+      FL /home/alekz/Prueba/TB_MemoriaRAM.vhd EN work/TB_MemoriaRAM 0 \
+      CP MemoriaRAM
+FL /home/alekz/Prueba/TB_MemoriaROM.vhd 2022/06/19.11:20:29 P.20131013
+EN work/TB_MemoriaROM 0 FL /home/alekz/Prueba/TB_MemoriaROM.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/TB_MemoriaROM/behavior 0 \
+      FL /home/alekz/Prueba/TB_MemoriaROM.vhd EN work/TB_MemoriaROM 0 \
+      CP MemoriaROM

@@ -1,0 +1,2 @@
+vhdl isim_temp "../Prueba/MemoriaRAM.vhd"
+vhdl isim_temp "../Prueba/TB_MemoriaRAM.vhd"
